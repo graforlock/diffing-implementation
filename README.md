@@ -1,6 +1,6 @@
 ### What is this? 
 
-Super basic draft of the attempt of porting Myers algorith along with pre-optimizations. 
+Super basic draft of the attempt of porting Myers algorithm along with pre-optimizations. 
 
 Instead of using virtual DOM, the diffing is done on real DOM trees.
 
