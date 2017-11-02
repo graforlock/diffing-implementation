@@ -9,5 +9,5 @@ It has rough edges/bugs that need polishing, structuring, refactoring, and adapt
 #### TODO:
 
 - Put diff methods to the separate module file (extract)
-- Make algorithm it pluggable for any native DOM patch(er) you compose it with
+- Make algorithm  pluggable for any native DOM patch(er) you compose it with
 - Turn the current patcher in an optional (example) dependency
