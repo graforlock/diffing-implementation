@@ -1,5 +1,5 @@
 var bel = require('bel')
-var patch = require('./lib/diff')
+var patch = require('./lib')
 var morph = require('nanomorph')
 
 function createList () {
